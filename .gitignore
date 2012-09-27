@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Ignores
 .classpath
 .project
@@ -11,3 +12,15 @@ test/reports
 plugins/*
 /target
 /lib
+=======
+*.iws
+*Db.properties
+*Db.script
+.settings
+eclipse
+stacktrace.log
+target
+/plugins
+/web-app/plugins
+/web-app/WEB-INF/classes
+>>>>>>> 5e0dd785c225d40331412c19ddfd7da67a5572bd
