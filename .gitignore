@@ -1,0 +1,13 @@
+#Ignores
+.classpath
+.project
+.settings
+#build.xml
+/*.launch
+/*.tmpproj
+stacktrace.log
+test/reports
+.svn
+plugins/*
+/target
+/lib
