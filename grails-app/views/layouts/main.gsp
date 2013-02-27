@@ -13,6 +13,7 @@
 		<link rel="apple-touch-icon" href="${resource(dir: 'images', file: 'apple-touch-icon.png')}">
 		<link rel="apple-touch-icon" sizes="114x114" href="${resource(dir: 'images', file: 'apple-touch-icon-retina.png')}">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'reset.css')}" type="text/css">
+		<link rel="stylesheet" href="${resource(dir: 'css', file: 'layout.css')}" type="text/css">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'main.css')}" type="text/css">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'mobile.css')}" type="text/css">
 		<link rel="stylesheet" href="${resource(dir: 'css', file:'jquery.fancybox-1.3.4.css')}" type="text/css">
@@ -279,22 +280,6 @@
 	                                        <p>Cream is one of <a class="_link1" href="http://blog.templatemonster.com/category/free-website-templates/">free website templates</a> created by TemplateMonster.com team. This website template is optimized for 1280X1024 screen resolution. It is also XHTML &amp; CSS valid. The PSD source files of this <a class="_link1" href="http://blog.templatemonster.com/2012/05/07/free-full-javascript-animated-template-web-design-studio/">Cream Template</a> are available for free for the registered members of TemplateMonster.com. Feel free to get them!</p>
 	                                    </div>
 	                                </div>
-	                                <div class="col1 padBot2">
-	                                    <div class="col3 bord1 magRight1">
-	                                        <ul class="_list1">
-	                                            <li><a href="#">At vero eos et accusam justo</a></li>
-	                                            <li><a href="#">Stet clitasd gubergren nosea takimata</a></li>
-	                                            <li><a href="#">Duo dolores et sed diam rebum</a></li>
-	                                        </ul>
-	                                    </div>
-	                                    <div class="col3">
-	                                        <ul class="_list1">
-	                                            <li><a href="#">Ipsum dolor sit amet consetetur</a></li>
-	                                            <li><a href="#">Sadipscing elitr clitasdd diam nonumy</a></li>
-	                                            <li><a href="#">At vero eos et accusam et justo</a></li>
-	                                        </ul>
-	                                    </div>
-	                                </div>
 	                                <a class="moreButton" href="#!/pageMore">Read More</a>
 				                                
 								</div>
@@ -412,13 +397,6 @@
 				                                <div class="padBot5">
 				                                        <figure class="google_map"></figure> 
 				                                    </div>
-				                               <div class="col5">
-				                                    <p>
-				                                        <span>8901 Marmora Road,<br>Glasgow, D04 89GR.</span><br>
-				                                        <span class="space1">Telephone:</span>+1 800 603 6035<br>
-				                                        <span>E-mail:&nbsp;<a class="_link1" href="mailto:">mail@demolink.org</a></span>    
-				                                    </p>
-				                               </div>
 				                            </div>     
 				                        </div>
 				                       </div>	
