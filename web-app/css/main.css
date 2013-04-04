@@ -24,6 +24,7 @@
     font-weight: normal;
     font-style: normal;
 
+
 }
 
 @font-face {
@@ -673,7 +674,7 @@ footer{
 }
 
 .footer {
-	background: #abbf78;
+	background: #000;
 	color: #000;
 	clear: both;
 	font-size: 0.8em;
@@ -771,7 +772,7 @@ footer{
 
 fieldset,
 .property-list {
-	margin: 0.6em 1.25em 0 1.25em;
+	margin: 9.6em 1.25em 0 1.25em;
 	padding: 0.3em 1.8em 1.25em;
 	position: relative;
 	zoom: 1;
@@ -1087,7 +1088,6 @@ th:hover, tr:hover {
 /* ACTION BUTTONS */
 
 .buttons {
-	background-color: #efefef;
 	overflow: hidden;
 	padding: 0.3em;
 	   -moz-box-shadow: 0 0 3px 1px #aaaaaa;
